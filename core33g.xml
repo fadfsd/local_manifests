@@ -17,12 +17,12 @@
 			fetch="github.com"/>
 	<project path="device/samsung/scx30g-common" name="fadfsd/android_device_samsung_scx30g-common" remote="github" revision="SMT-113"/>
 	<project path="vendor/samsung/scx30g-common" name="fadfsd/android_vendor_samsung_scx30g-common" remote="github" revision="SMT-113"/>
-		<project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="lineage-15.1"/>
+	<project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="lineage-15.1"/>
 	<!-- project path="packages/apps/SamsungServiceMode" name="LineageOS/android_packages_apps_SamsungServiceMode" remote="github" revision="lineage-15.1"/ -->
 	<project path="device/samsung/sprd-common" name="fadfsd/android_device_samsung_sprd-common" remote="github" revision="SMT-113"/>
 	<project path="device/samsung/scx35-common" name="fadfsd/android_device_samsung_scx35-common" remote="github" revision="SMT-113"/>
 	<project path="hardware/sprd" name="fadfsd/android_hardware_sprd" remote="github" revision="SMT-113"/>
-	<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" reivision="lineage-15.1" />
+	<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-15.1" />
 	<project path="device/samsung/scx30g-common" name="fadfsd/android_device_samsung_scx30g-common" remote="github" revision="SMT-113"/>
 	<project path="vendor/samsung/scx30g-common" name="fadfsd/android_vendor_samsung_scx30g-common" remote="github" revision="SMT-113"/>
 </manifest>
