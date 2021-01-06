@@ -13,6 +13,8 @@
      limitations under the License.
 -->
 <manifest>
+	<remote name="github"
+			fetch="github.com"/>
 	<project path="device/samsung/scx30g-common" name="fadfsd/android_device_samsung_scx30g-common" remote="github" revision="SMT-113"/>
 	<project path="vendor/samsung/scx30g-common" name="fadfsd/android_vendor_samsung_scx30g-common" remote="github" revision="SMT-113"/>
 		<project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="lineage-15.1"/>
